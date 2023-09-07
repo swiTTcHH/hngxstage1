@@ -31,7 +31,6 @@ main{
     
 }
 [data-testid = "githubURL"]{
-    color: white;
     text-decoration: none;
     cursor: pointer;
 }
